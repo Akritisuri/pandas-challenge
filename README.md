@@ -1,2 +1,2 @@
 # pandas-challenge
-Akriti Suri Panda Homework 
+Akriti Suri Pandas Homework 
